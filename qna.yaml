@@ -100,6 +100,8 @@ seed_examples:
       - question: How does the Airbus A380 case study highlight the increasing relevance of addressing customer requirements in industries handling complex projects?
         answer: |
           The Airbus A380 case study highlights the growing importance of addressing customer requirements in complex projects by showing that technology and customer preferences are continuously evolving. In industries where complexity is high, failing to keep pace with changing needs can severely impact project outcomes. The A380 experience underscores that continuous engagement with customer expectations throughout a projects implementation phase is essential to maintaining relevance, achieving adoption, and securing long-term success.
-
-
-
+document:
+  repo: https://github.com/jamiehackett/etx.git
+  commit: 40637dd8103698fb4f86911608ec0dc7c621708a 
+  patterns: 
+    - knowledge.md
