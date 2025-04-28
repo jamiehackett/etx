@@ -57,10 +57,10 @@ seed_examples:
   - context: |
       The Airbus A380 project, an engineering marvel, provides valuable insights into project management and the importance of customer alignment. The primary lesson is the critical role of market research conducted in collaboration with project stakeholders from the outset. The A380's design was based on projections rather than concrete market insights, underscoring the importance of flexibility and responsiveness to changing market dynamics.
       Based on the A380 experience, several recommendations can be made for future large-scale projects:
-      - Engage Stakeholders Early: Involve stakeholders from the beginning, consulting them at the project's inception and gathering detailed information about their operational needs, preferences, and market forecasts.
-      - Adopt Flexible Design Principles: Embrace adaptable design concepts that can evolve with changing customer demands and technological advancements.
-      - Conduct Comprehensive Market Research: Implement ongoing market research to anticipate trends and adjust product offerings accordingly, ensuring alignment with evolving customer expectations.
-      - Regular Project Reviews: Conduct regular project assessments to accommodate new customer requirements and address emerging market trends, ensuring that project deliverables align with customer needs.
+      Engage Stakeholders Early: Involve stakeholders from the beginning, consulting them at the project's inception and gathering detailed information about their operational needs, preferences, and market forecasts.
+      Adopt Flexible Design Principles: Embrace adaptable design concepts that can evolve with changing customer demands and technological advancements.
+      Conduct Comprehensive Market Research: Implement ongoing market research to anticipate trends and adjust product offerings accordingly, ensuring alignment with evolving customer expectations.
+      Regular Project Reviews: Conduct regular project assessments to accommodate new customer requirements and address emerging market trends, ensuring that project deliverables align with customer needs.
       By integrating these strategies, project managers can significantly enhance the success of complex projects. The lessons learned from the Airbus A380's challenges provide valuable guidance for future endeavors, both in the aviation industry and other sectors involving large-scale projects.
     questions_answers:
       - question: Why was the Airbus A380 project considered an important case study for the role of market research in large-scale projects?
