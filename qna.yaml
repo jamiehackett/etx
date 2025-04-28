@@ -1,0 +1,35 @@
+version: 3
+created_by: Jamie&Jordi
+domain: Aircraft Manufacturing
+document_outline: |
+  This document outlines how large scale aircraft manufacturing needs to involve the customer at every step and requires constant reevaultion of customer needs. It goes into detail around the Airbus A380 and the challenges this aircraft tried to meet in the market. It also gives a good example of meeting customer expectations when it comes to manufacturing.
+seed_examples:
+  - context: |
+      In contrast, the Boeing 787 Dreamliner exemplifies the successful integration of customer requirements into an aircraft project. The 787 Dreamliner was designed with the evolving needs of airlines in mind, focusing on fuel efficiency, cost-effectiveness, and passenger capacity for point-to-point travel.
+      Boeing's market research and collaboration with airlines informed the 787's strategic development, prioritizing customer desires. This approach led to its market success, as airlines valued the Dreamliner's fuel savings, reduced operating costs, and adaptability to diverse routes.
+      On the other hand, the Airbus A380 was positioned as a technical marvel aimed at dominating the high-capacity long-haul market. However, it failed to align with airlines' shifting operational practices (Baumann et al., 2020). Despite its advanced technology, the A380 faced challenges due to its size, operating costs, and infrastructure requirements.
+      The contrasting paths of these projects underscore the importance of focusing on customer needs before embarking on any endeavor. The 787 Dreamliner's success illustrates how product design should cater to customer demands rather than dictate them. This lesson is crucial, particularly when addressing issues like those faced by the Airbus A380.
+    questions_and_answers:
+      - question: So why was the 787 dreamliner more sucessful than the Airbus A380?
+        answer: |
+          The Boeing 787 Dreamliner was more successful than the Airbus A380 as it was able to evolve to the needs of airlines. In particular it focused on improving efficiency, making it more cost-effective to operate, and increasing passenger capacity for point-to-point travel. Boeing also involved airline customers and informed them of the strategic development of the the Boeing 787 Dreamliner involving them in the manufacturing process. This enabled Boeing to pivot the development of the 787 Dreamliner as compared to the Airbus A380.
+          Airlines shifted toward point-to-point travel (flying directly between cities) rather than relying on massive hub airports to connect flights.
+          The 787 was built for this: its a smaller, super-efficient long-haul plane, perfect for connecting less-trafficked city pairs directly.
+          The 787 is far cheaper to operate — its lighter (lots of composites), burns less fuel, and can fill more routes profitably.
+          he A380 is a giant gas guzzler by comparison.
+          
+      - question: What were the challenges faced by the Airbus A380 despite its advanced technology? 
+        answer: | 
+          The Airbus A380 faced challenges due to its size, high operating costs, and infrastructure requirements. These factors did not align with airlines' shifting operational practices, which impacted its success. The original customer requirements that informed the developement of the A380 had shifted significantly since the original concept of the A380 was developed. 
+          Even with four efficient engines, it burned much more fuel per flight than newer twin-engine jets (like the Boeing 787 or Airbus A350).
+          It had to be full of passengers (about 85% load factor) to make flights profitable — but airlines struggled to consistently fill 500+ seats outside major hubs.
+          A380s rapidly lost value on the second-hand market. Airlines like Singapore Airlines retired some after just 10 years, which is very early for widebodies.
+
+      - question: What lesson can be learned from the contrasting paths of the Boeing 787 Dreamliner and the Airbus A380?
+        answer: | 
+          The lesson is that product design should focus on catering to customer needs rather than dictating them. The success of the Boeing 787 Dreamliner highlights the importance of aligning product development with customer demands, a strategy that was not effectively applied to the Airbus A380, leading to its challenges.
+          Boeing recognized that airlines and passengers wanted more flexible, direct flights between more cities, not just giant flights between hubs.
+          Airbus assumed air travel would keep getting denser, requiring bigger planes at major hubs.
+          They built for a future that sounded logical in the 1990s but didnt fully materialize.
+
+  

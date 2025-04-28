@@ -2,7 +2,7 @@
 
 **Introduction**
 
-The Airbus A380 project, initiated by Boeing, is a landmark in aircraft manufacturing. This case study reflects the potential of technology and the challenges involved in large-scale project management. The Airbus A380, the largest passenger aircraft in the world, was developed to surpass the Boeing 747 in range and capacity. The project required an investment of over $30 billion, marking it as one of the most significant ventures in aviation history.
+The Airbus A380 project, initiated by Airbus, is a landmark in aircraft manufacturing. This case study reflects the potential of technology and the challenges involved in large-scale project management. The Airbus A380, the largest passenger aircraft in the world, was developed to surpass the Boeing 747 in range and capacity. The project required an investment of over $30 billion, marking it as one of the most significant ventures in aviation history.
 
 When managing extensive projects, understanding and prioritizing customer needs are crucial. These considerations form the foundation of a successful project, directly influencing design, utility, and market alignment. If the Airbus A380's developers had placed greater emphasis on customer needs and market requirements, the project's trajectory might have been considerably different.
 
@@ -12,11 +12,11 @@ This case study analyzes the effects of customer insights on the Airbus A380's o
 
 The Airbus A380 was a monumental project, representing a major leap in aircraft development. Designed as the world's largest passenger airplane, it boasted a capacity four times greater than the Boeing 747. The project's goal was to revolutionize transoceanic air travel with unprecedented passenger capacity and range, addressing the rapidly growing global air traffic industry.
 
-Initially, Boeing was optimistic about the A380's market potential. Studies indicated a rising demand for large aircraft, driven by increasing passenger numbers, especially on long-haul flights where high-capacity planes could be more efficient. The A380 was also envisioned as a solution to airport congestion and space limitations for takeoff and landing. The strategy anticipated airlines needing fewer but larger aircraft.
+Initially, Airbus was optimistic about the A380's market potential. Studies indicated a rising demand for large aircraft, driven by increasing passenger numbers, especially on long-haul flights where high-capacity planes could be more efficient. The A380 was also envisioned as a solution to airport congestion and space limitations for takeoff and landing. The strategy anticipated airlines needing fewer but larger aircraft.
 
-The Airbus A380's development cost Boeing over $30 billion, reflecting not only financial investment but also the integration of cutting-edge technologies (Nelson, 2020). The plane's innovative materials, complex systems, and unique features were designed to enhance efficiency, comfort, and environmental performance.
+The Airbus A380's development cost Airbus over $30 billion, reflecting not only financial investment but also the integration of cutting-edge technologies (Nelson, 2020). The plane's innovative materials, complex systems, and unique features were designed to enhance efficiency, comfort, and environmental performance.
 
-The Airbus A380 project demonstrated Boeing's technological ambition and commitment, setting new standards for long-haul air travel and passenger management efficiency.
+The Airbus A380 project demonstrated Airbus's technological ambition and commitment, setting new standards for long-haul air travel and passenger management efficiency.
 
 **Importance of Customer Requirements in Project Management**
 
@@ -30,7 +30,7 @@ For project managers, especially those overseeing large-scale endeavors, systema
 
 **Analysis of the Airbus A380's Challenges**
 
-Despite Boeing's leadership in the Airbus A380 project, several challenges arose due to poor market timing, complex technical issues, and new infrastructure requirements. A significant challenge was the failure to align with market needs. While Boeing predicted increased demand for large aircraft, the industry trend shifted towards smaller, cost-effective planes optimized for point-to-point travel rather than the hub-and-spoke model intended for the A380.
+Despite Airbus's leadership in the Airbus A380 project, several challenges arose due to poor market timing, complex technical issues, and new infrastructure requirements. A significant challenge was the failure to align with market needs. While Airbus predicted increased demand for large aircraft, the industry trend shifted towards smaller, cost-effective planes optimized for point-to-point travel rather than the hub-and-spoke model intended for the A380.
 
 Technological hurdles further complicated the project. The A380's size and complexity led to production difficulties, delays, and cost overruns. Notably, wiring and electrical system issues caused significant shipping delays, negatively impacting customer satisfaction and financial performance. Additionally, the A380's size necessitated airport modifications, such as wider runways and larger gates, increasing operational costs and deterring airlines (Štimac et al., 2020).
 
